@@ -1,0 +1,66 @@
+body{
+background-image: url(cover.png);
+background-size:cover;
+}
+
+.dojo{
+height:200px;
+width:200px;
+}
+
+h1{
+font-style: Times New Roman, serif;
+}
+
+ul{
+height:60px;
+list-style-type:none;
+background-color:#333;
+}
+
+li a{
+display:block;
+color:white;
+border-left:1px solid #bbb;
+text-align:center;
+float:right;
+height:35px;
+padding-top:20px;
+padding-left:10px;
+padding-right:10px;
+}
+
+li a:hover{
+background-color:#4CAF50;
+}
+
+li p{
+font-size:23px;
+color:white;
+float:left;
+text-align:center;
+padding-bottom:50px;
+}
+
+.project ul{
+list-style-type:none;
+}
+
+
+.project ul li a{
+float:left;
+display:block;
+border-right:1px solid #bbb; 
+height:36px;
+text-align:center;
+padding-top:20px;
+}
+
+h5 a{
+color:white;
+display:block;
+background-color:#4CAF50;
+height:30px;
+padding-top:10px;
+font-size:20px;
+}
